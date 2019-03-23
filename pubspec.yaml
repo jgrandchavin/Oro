@@ -27,7 +27,7 @@ flutter:
 
   assets:
    - a/logo.svg
-   - a/shake.svg
+   - a/s.svg
    - a/place.svg
    - a/1.svg
    - a/2.svg

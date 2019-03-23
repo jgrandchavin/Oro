@@ -1,15 +1,13 @@
-import 'package:flutter/material.dart';
-
 class AQ {
-  String city;
-  int aqi;
-  String cat;
-  String reco;
-  Color color;
-  String asset;
+  var city;
+  var aqi;
+  var cat;
+  var reco;
+  var color;
+  var asset;
 
-  AQ.fromJson(Map<String, dynamic> json)
-      : aqi = json['data']['indexes']['baqi']['aqi'],
-        cat = json['data']['indexes']['baqi']['category'],
-        reco = json['data']['health_recommendations']['general_population'];
+  AQ.fJ(j)
+      : aqi = j['data']['indexes']['baqi']['aqi'],
+        cat = j['data']['indexes']['baqi']['category'],
+        reco = j['data']['health_recommendations']['general_population'];
 }
