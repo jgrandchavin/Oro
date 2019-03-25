@@ -1,4 +1,4 @@
-package com.example.oro;
+package dev.juliengrandchavin.oro;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

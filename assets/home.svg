@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Home</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#6E46B8" x="0" y="0" width="375" height="812"></rect>
+        <g id="message-bottom" transform="translate(90.000000, 545.000000)">
+            <text id="description" font-family="Averta-Light, Averta" font-size="15" font-weight="300" line-spacing="22">
+                <tspan x="26.2902832" y="67" fill="#FFFFFF">Get </tspan>
+                <tspan x="55.6018066" y="67" font-family="Averta-Semibold, Averta" font-weight="500" fill="#FFFFFF">in real time </tspan>
+                <tspan x="139.031982" y="67" fill="#FFFFFF">your</tspan>
+                <tspan x="21.5478516" y="89" font-family="Averta-Regular, Averta" font-weight="normal" fill="#C97CBE">Location’s air quality !</tspan>
+            </text>
+            <text id="shake" font-family="Averta-Semibold, Averta" font-size="22" font-weight="500" line-spacing="32" fill="#FFFFFF">
+                <tspan x="65.934082" y="21">Shake</tspan>
+                <tspan x="129.065918" y="21" font-size="20"> </tspan>
+            </text>
+        </g>
+        <text id="header-message" font-family="Averta-Semibold, Averta" font-size="20" font-weight="500" line-spacing="32">
+            <tspan x="172.182617" y="149" fill="#C97CBE">Hi !</tspan>
+            <tspan x="202.817383" y="149" font-family="Averta-Light, Averta" font-weight="300" fill="#BE2EDD"> </tspan>
+            <tspan x="88.3886719" y="181" font-family="Averta-Regular, Averta" font-weight="normal" fill="#FFFFFF">Welcome to Oro app.</tspan>
+        </text>
+    </g>
+</svg>
