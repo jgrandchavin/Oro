@@ -1,0 +1,22 @@
+{
+  "airAPI": "http://api.airvisual.com/v2/nearest_city?lat=$lat&lon=$lon&key=qZDARMBt8RLaHyiMd",
+  "locAPI": "http://nominatim.openstreetmap.org/reverse?format=json&lat=$lat&lon=$lon&zoom=10",
+  "quality": {
+    "1": "Excellent air quality",
+    "2": "Good air quality",
+    "3": "Moderate air quality",
+    "4": "Low air quality"
+  },
+  "reco": {
+    "1": "With this level of air quality, you have no limitations. Enjoy the outdoors!",
+    "2": "Good level of air quality, enjoy the outdoors!",
+    "3": "If you start to feel respiratory discomfort such as coughing or breathing difficulties, consider reducing the intensity of your outdoor activities. Try to limit the time you spend near busy roads, construction sites, industrial emission stacks, open fires and other sources of smoke.",
+    "4": "Avoid intense activities outdoors. Stay away from busy roads, construction sites, open fires and other sources of smoke. Staying indoors with an activated air filtration system would be best for your long term health."
+  },
+  "assets": {
+    "1": "assets/excellent.flr",
+    "2": "assets/good.flr",
+    "3": "assets/moderate.flr",
+    "4": "assets/bad.flr"
+  }
+}

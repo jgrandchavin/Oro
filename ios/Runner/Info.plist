@@ -25,9 +25,9 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Salut</string>
+	<string>We need your localization to check your air quality </string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Salut</string>
+	<string>We need your localization to check your air quality </string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

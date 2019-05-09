@@ -1,7 +1,7 @@
 name: oro
-description: A new Flutter project.
+description: Air quality app for Flutter Create.
 
-version: 1.0.0+1
+version: 1.0.3+4
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -27,18 +27,29 @@ flutter:
   uses-material-design: true
 
   assets:
-   - assets/logo.svg
-   - assets/s.svg
-   - assets/s2.svg
    - assets/load.svg
-   - assets/p.svg
+   - assets/place.svg
    - assets/home.svg
    - assets/star.svg
-   - assets/1.flr
-   - assets/2.flr
-   - assets/3.flr
+   - assets/good.flr
+   - assets/excellent.flr
+   - assets/moderate.flr
+   - assets/bad.flr
    - assets/shake.flr
    - assets/shake2.flr
+   - assets/text.json
+   - assets/01d.svg
+   - assets/01n.svg
+   - assets/02d.svg
+   - assets/02n.svg
+   - assets/03d.svg
+   - assets/04d.svg
+   - assets/09d.svg
+   - assets/10d.svg
+   - assets/10n.svg
+   - assets/11d.svg
+   - assets/13d.svg
+   - assets/50d.svg
 
   fonts:
     - family: Averta
