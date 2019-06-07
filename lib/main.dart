@@ -76,7 +76,7 @@ class LoadView extends StatelessWidget {
   getAQ() async {
     var loc = await Location().getLocation(),
         json = await c.jsonDecode(await rootBundle.loadString('assets/text.json')),
-        apiKey = 'qZDARMBt8RLaHyiMd',
+        apiKey = '',
         r = await http
             .get('http://api.airvisual.com/v2/nearest_city?lat=${loc.latitude}&lon=${loc.longitude}&key=${apiKey}'),
         r2 = await http.get(
