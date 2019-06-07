@@ -22,10 +22,10 @@ I use two API for the project :
 
 
 ## Screenshots
-![Excellent](https://github.com/jgrandchavin/oro/blob/master/screenshots/excellent_AQI.png "Excellent")
-![Good](https://github.com/jgrandchavin/oro/blob/master/screenshots/good_AQI.png "Good")
-![Moderate](https://github.com/jgrandchavin/oro/blob/master/screenshots/moderate_AQI.png "Moderate")
-![Bad](https://github.com/jgrandchavin/oro/blob/master/screenshots/bad_AQI.png "Bad")
+| Excellent        | Good           | Moderate  | Bad |
+| ![Excellent](https://github.com/jgrandchavin/oro/blob/master/screenshots/excellent_AQI.png "Excellent") | ![Good](https://github.com/jgrandchavin/oro/blob/master/screenshots/good_AQI.png "Good") | ![Moderate](https://github.com/jgrandchavin/oro/blob/master/screenshots/moderate_AQI.png "Moderate") |  ![Bad](https://github.com/jgrandchavin/oro/blob/master/screenshots/bad_AQI.png "Bad") |
+
+
 
 
 
